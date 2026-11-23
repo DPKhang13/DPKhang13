@@ -7,7 +7,7 @@
 
 ### 👋 Hi, I'm Dang Phuc Khang
 
-I'm Software Engineering student specializing in backend development with Java Spring Boot and RESTful APIs.
+I'm a Software Engineering student specializing in backend development with Java Spring Boot and RESTful APIs.
 
 Experienced in building scalable systems and working with AI models, with a strong focus on clean code and system design. 
 
@@ -41,19 +41,28 @@ Seeking an internship to contribute to real-world backend systems and grow as a 
 <br/>
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Render](https://img.shields.io/badge/Render%20Deploy-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Unity Cloud](https://img.shields.io/badge/Unity%20Cloud-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/products/unity-cloud)
+
+<br/>
+
+**✨ AI & Agentic Workflows**
+<br/>
+[![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
+
 </td>
 <td valign="top" width="50%">
 
 **💻 Languages & Frameworks**
 <br/>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![SpringtBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-
 
 <br/>
 
-**🤖 Database & ORM**
+**🗄️ Database & ORM**
 <br/>
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -63,7 +72,7 @@ Seeking an internship to contribute to real-world backend systems and grow as a 
 **🛠️ Other Tools**
 <br/>
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+[![Unity Engine](https://img.shields.io/badge/Unity%20Engine-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 </td>
 </tr>
@@ -71,8 +80,9 @@ Seeking an internship to contribute to real-world backend systems and grow as a 
 
 ## Previously Worked With
 
-[![SpringtBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Render](https://img.shields.io/badge/Render%20Deploy-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-
----
+[![Unity Engine](https://img.shields.io/badge/Unity%20Engine-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Unity Cloud](https://img.shields.io/badge/Unity%20Cloud-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/products/unity-cloud)
+[![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
