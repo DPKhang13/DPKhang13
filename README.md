@@ -86,3 +86,9 @@ Seeking an internship to contribute to real-world backend systems and grow as a 
 [![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+## 🎮 Game Published
+
+| Game | Version | Platform |
+| :--- | :---: | :---: |
+| **Thánh Gióng - Phù Đổng Thiên Vương** | ![Beta](https://img.shields.io/badge/Version-Beta-orange?style=flat-square) | [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://dpkanglow.itch.io/thanhgiong) |
